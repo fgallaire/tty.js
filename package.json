@@ -9,6 +9,7 @@
   "preferGlobal": false,
   "repository": "git://github.com/chjj/tty.js.git",
   "homepage": "https://github.com/chjj/tty.js",
+  "script": {"start": "node index"}
   "bugs": { "url": "https://github.com/chjj/tty.js/issues" },
   "keywords": ["tty", "terminal", "term", "xterm"],
   "tags": ["tty", "terminal", "term", "xterm"],
